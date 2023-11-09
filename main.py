@@ -8,8 +8,8 @@ import time
 psp_url = 'https://www.olx.kz/elektronika/igry-i-igrovye-pristavki/pristavki/pavlodar/?search%5Border%5D=created_at:desc&search%5Bfilter_enum_console_manufacturers%5D%5B0%5D=2273'
 playstation_url = 'https://www.olx.kz/elektronika/igry-i-igrovye-pristavki/pristavki/pav/?search%5Bfilter_enum_console_manufacturers%5D%5B0%5D=2272&search%5Border%5D=created_at%3Adesc'
 graphic_cards_url = 'https://www.olx.kz/elektronika/kompyutery-i-komplektuyuschie/komplektuyuschie-i-aksesuary/pavlodar/?search%5Bfilter_enum_subcategory%5D%5B0%5D=videokarty&search%5Border%5D=created_at%3Adesc'
-TG_TOKEN = '6390066909:AAFl6Y2q1FCI92KheLGBgRn5tvPnfbn8lSc'
-TG_ID = 1151927433
+TG_TOKEN = ''
+TG_ID = 
 
 
 def send_msg(msg):
